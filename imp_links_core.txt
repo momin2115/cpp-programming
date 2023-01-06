@@ -1,0 +1,15 @@
+https://www.tutorialspoint.com/dbms/dbms_hashing.htm#
+https://www.geeksforgeeks.org/acid-properties-in-dbms/
+https://www.javatpoint.com/indexing-in-dbms
+https://www.guru99.com/dbms-concurrency-control.html#:~:text=A%20lock%20is%20a%20data,to%20the%20concurrency%2Dcontrol%20manager.
+https://www.techonthenet.com/oracle/questions/bottom_records.php
+https://community.oracle.com/tech/apps-infra/discussion/4417973/quick-tip-oracle-database-12c-makes-top-n-inner-n-and-bottom-n-querying-easier
+https://www.javatpoint.com/dbms-language
+
+
+
+
+
+https://www.plesk.com/wiki/dns-forwarding/
+https://www.javatpoint.com/computer-network-dns
+https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/
